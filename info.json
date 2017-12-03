@@ -1,0 +1,9 @@
+{
+  "name": "info-mod",
+  "version": "0.2.0",
+  "title": "Info-Mod",
+  "author": "darkfrei",
+  "description": "When you need some info for modding",
+  "dependencies": ["base"],
+  "factorio_version": "0.15"
+}
